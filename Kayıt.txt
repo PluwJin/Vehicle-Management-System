@@ -1,0 +1,5 @@
+Otomobil1/Mercedes/100/50000/4/1998/Kırmızı//4/Benzin
+Otomobil2/Mercedes/200/50000/12/1998/Siyah/4/Benzin
+Bisiklet1/Salcano/50/2500/2/2011/Beyaz/2/Yok
+Ucangemi1/Spacex/0/50000/40/1998/Beyaz/0/Dizel ve JET A1
+Ucak1/Boeşng/0/15000/15/1998/Beyaz/22/Dizel/true
